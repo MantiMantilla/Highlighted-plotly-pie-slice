@@ -1,0 +1,12 @@
+{
+    "name": "highlighted_slice.",
+    "values": [19, 26, 55],
+    "labels": ["Residential", "Non-Residential", "Utility"],
+    "type": "pie",
+    "marker": {
+        "line": {
+            "color": "#444",
+            "width": [0, 5, 0]
+        }
+    }
+}
